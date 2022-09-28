@@ -50,15 +50,15 @@ background-size:cover;
 padding-bottom:1rem;
 }
 
-.pic-a-01 {background-image:url(images/logo01.jpg);  }
+.pic-a-01 {background-image:url(../images/logo01.jpg);  }
 
-.pic-a-02  {background-image:url(images/logo02.jpg); }
+.pic-a-02  {background-image:url(../images/logo02.jpg); }
 
-.pic-a-03 {background-image:url(images/logo03.jpg);  }
+.pic-a-03 {background-image:url(../images/logo03.jpg);  }
 
-.pic-a-04  {background-image:url(images/logo04.jpg); }
+.pic-a-04  {background-image:url(../images/logo04.jpg); }
 
-.pic-a-05 {background-image:url(images/logo05.jpg);  }
+.pic-a-05 {background-image:url(../images/logo05.jpg);  }
 
 
 
