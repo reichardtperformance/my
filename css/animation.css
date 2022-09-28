@@ -50,15 +50,15 @@ background-size:cover;
 padding-bottom:1rem;
 }
 
-.pic-a-01 {background-image:url(../images/logo01.jpg);  }
+.pic-a-01 {background-image:url(images/logo01.jpg);  }
 
-.pic-a-02  {background-image:url(../images/logo02.jpg); }
+.pic-a-02  {background-image:url(images/logo02.jpg); }
 
-.pic-a-03 {background-image:url(../images/logo03.jpg);  }
+.pic-a-03 {background-image:url(images/logo03.jpg);  }
 
-.pic-a-04  {background-image:url(../images/logo04.jpg); }
+.pic-a-04  {background-image:url(images/logo04.jpg); }
 
-.pic-a-05 {background-image:url(../images/logo05.jpg);  }
+.pic-a-05 {background-image:url(images/logo05.jpg);  }
 
 
 
@@ -98,14 +98,14 @@ margin:0;
 
 
 /* ############################################################ */
-/* NACHFOLGEND NUR INFORMATION FÜR SIE */
-/* Kurzer Überblick: ANIMATIONEN mit CSS Keyframes und CSS Transition */
+/* NACHFOLGEND NUR INFORMATION FÃœR SIE */
+/* Kurzer Ãœberblick: ANIMATIONEN mit CSS Keyframes und CSS Transition */
 /* ############################################################ */
 
 
 /*
 
-CSS-Animationen ermöglichen auf einfache Art, was frueher nur mit der komplizierteren Flash- oder Javascript-Technik zu bewältigen war.
+CSS-Animationen ermÃ¶glichen auf einfache Art, was frueher nur mit der komplizierteren Flash- oder Javascript-Technik zu bewÃ¤ltigen war.
 
 
 Es gibt 2 Arten von CSS Animationen, naemlich
